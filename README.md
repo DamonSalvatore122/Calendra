@@ -1,4 +1,4 @@
-📅✨ Calendra — Full-Stack Scheduling App (Calendly Clone)
+📅✨ Calendra — Full-Stack Scheduling App 
 
 🚀 Build  a modern, full-stack scheduling app with Google Calendar sync, 🌍 timezone-aware bookings, and 🎨 polished UI.
 Tech highlight: ⚡ Next.js 15, ⚛️ React 19, 🟦 TypeScript, 🎀 Tailwind v4, 🐘 Neon (Postgres), 📜 Drizzle ORM, 🔑 Clerk, and 📆 Google Calendar API.
